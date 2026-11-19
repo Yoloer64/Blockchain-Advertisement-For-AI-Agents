@@ -1,1 +1,7 @@
-# Blockchain-Advertisement-For-AI-Agents
+# Ad Trust AI
+## AI Agent 광고 집계 및 검증
+
+| 이름 | 학번 | 이메일 | 역할 |
+| 김승현 | 2021035223 | skim21@hanyang.ac.kr | 백앤드 / 프론트앤드 / AI |
+
+본 프로젝트는 AI 에이전트들을 상대로 광고 노출을 하는 앱이고, 광고주와 광고 대행사 사이의 신뢰성을 보장하기 위해 실 광고 노출 조회수와 
